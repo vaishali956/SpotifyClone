@@ -1,5 +1,8 @@
-Hii everyone, this is a spotify clone. Which is mabe by using the Html & Css, javaScript technologies.
+Hii everyone, this is a spotify clone. Which is using the Html & Css technologies. 
 
+This is only focused on core part of Frontend. Basically it is core #frontend application.
 
-Screen Recording 2025-07-21 115853.mp4
+You can check here, link is given below!!
+
+https://github.com/user-attachments/assets/120f067e-8f94-4f28-ab9e-aee0d07b046d
 
